@@ -4,8 +4,8 @@ I'm Terminator7805. I'm a 16 years old teenager curious about technologies. I'm 
 🛠 JS, LUA, HTML, CSS.\
 🇪🇸 Spanish Native.\
 🇬🇧 🇫🇷 English and French student. (Intermediate level in CEFR)\
-🐦 https://twitter.com/Terminator7805\
-📧 Contact: terminator7805@gmail.com\
+🐦 https://twitter.com/Terminator7805 \
+📧 Contact: terminator7805@gmail.com \
 <!--
 **acabezafra/acabezafra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
