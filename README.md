@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Terminator7805. I'm a 16 years old teenager curious about technologies. I'm currently studying while developing some projects during my free time. I enjoy learning and programming.
+I'm Terminator7805. I'm a 16-year-old teenager curious about technologies. I'm currently studying while developing some projects during my free time. I enjoy learning and programming.
 
 🛠 JS, LUA, HTML, CSS.\
 🇪🇸 Spanish Native.\
