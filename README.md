@@ -8,7 +8,7 @@ I'm Terminator7805. I'm a 16 years old teenager curious about technologies. I'm 
 📧 Contact: terminator7805@gmail.com \
 \
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ \
-![Terminator7805's GitHub stats](https://github-readme-stats.vercel.app/api?username=acabezafra&show_icons=true&theme=react&count_private=true)
+![Terminator7805's GitHub stats](https://github-readme-stats.vercel.app/api?username=acabezafra&show_icons=true&theme=react&count_private=true&hide_border=true)
 
 <!--
 **acabezafra/acabezafra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
