@@ -5,7 +5,9 @@ I'm Terminator7805. I'm a 16 years old teenager curious about technologies. I'm 
 🇪🇸 Spanish Native.\
 🇬🇧 🇫🇷 English and French student. (Intermediate level in CEFR)\
 🐦 https://twitter.com/Terminator7805 \
-📧 Contact: terminator7805@gmail.com 
+📧 Contact: terminator7805@gmail.com \
+![Terminator7805's GitHub stats](https://github-readme-stats.vercel.app/api?username=acabezafra&show_icons=true)
+
 <!--
 **acabezafra/acabezafra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
