@@ -5,7 +5,7 @@ I'm Terminator7805. I'm a 16-year-old teenager curious about technologies. I'm c
 🇪🇸 Spanish Native.\
 🇬🇧 🇫🇷 English and French student. (Intermediate level in CEFR)\
 🐦 https://twitter.com/Terminator7805 \
-📧 Contact: terminator7805@gmail.com \
+📧 Contact: terminator7805@gmail.com 
 
 --- 
 
