@@ -6,7 +6,7 @@ I'm Terminator7805. I'm a 16-year-old teenager curious about technologies. I'm c
 🇬🇧 English Student. B1 Preliminary achieved, waiting for B2 First results.\
 🇫🇷 French Student. B2 achieved. \
 🐦 https://twitter.com/Terminator7805 \
-📧 Contact: terminator7805@gmail.com 
+📧 terminator7805@gmail.com 
 
 --- 
 
