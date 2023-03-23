@@ -7,6 +7,7 @@ I'm Terminator7805. I'm a 17-year-old teenager curious about technologies. I'm c
 🇫🇷 French Student. Niveau B2 réussi. \
 🐦 https://twitter.com/Terminator7805 \
 📧 terminator7805@gmail.com 
+💬 Discord: Termi.#7805
 
 --- 
 
