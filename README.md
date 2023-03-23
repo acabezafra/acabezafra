@@ -1,10 +1,10 @@
 ### Hi there 👋
-I'm Terminator7805. I'm a 16-year-old teenager curious about technologies. I'm currently studying while developing some projects during my free time. I enjoy learning and programming.
+I'm Terminator7805. I'm a 17-year-old teenager curious about technologies. I'm currently studying while developing some projects during my free time. I enjoy learning and programming.
 
 🛠 JS, PY, LUA, HTML, CSS.\
 🇪🇸 Spanish Native.\
-🇬🇧 English Student. B1 Preliminary achieved, waiting for B2 First results.\
-🇫🇷 French Student. B2 achieved. \
+🇬🇧 English Student. B2 First Grade A achieved.\
+🇫🇷 French Student. Niveau B2 réussi. \
 🐦 https://twitter.com/Terminator7805 \
 📧 terminator7805@gmail.com 
 
